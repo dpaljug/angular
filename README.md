@@ -1,0 +1,2 @@
+# angular
+bobi angular frontend
